@@ -15,10 +15,7 @@ public class Snippet {
     private LocalDateTime timestamp;
 
 
-    public Snippet() {
-    }
-
-    ;
+    public Snippet() {};
 
 
     
@@ -163,4 +160,5 @@ public class Snippet {
         return isTitleValid && isContentValid;
     }
 }
+
 
