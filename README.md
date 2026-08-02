@@ -114,5 +114,7 @@ To contribute:
 - Fork, create a branch, commit your changes, and open a PR.
 - For larger features, open an issue first to discuss design.
 
+
+
 ## License
 This project is licensed under the MIT License — see the `LICENSE` file in the repository.
